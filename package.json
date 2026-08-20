@@ -1,0 +1,9 @@
+
+{
+  "name": "bedrock-mine-proxy",
+    "version": "1.0.0",
+      "main": "index.js",
+        "dependencies": {
+            "bedrock-protocol": "^3.0.0"
+              }
+              }
