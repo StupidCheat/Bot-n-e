@@ -8,7 +8,7 @@ const DESTINATION_PORT = 19132;
 
 const relay = new Relay({
   /* Servidor que escucha a tu iPhone */
-  host: '0.0.0.0',
+  host: '157.180.7.55',
   port: Number(PORT),
   useNativeRaknet: false,
 
